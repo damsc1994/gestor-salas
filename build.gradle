@@ -16,7 +16,6 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 bootJar {
-    archiveBaseName = 'reactive-bookstoreweb'
     archiveVersion =  '0.1.0'
 }
 
